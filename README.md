@@ -1,2 +1,2 @@
 # R
-Projects with R programming language
+Time series project with R programming language
